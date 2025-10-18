@@ -16,10 +16,11 @@ This project helps users organize tasks efficiently with an intuitive and intera
 
 ✔ Interactive task management
 
-✔Real-time updates without reloading
+✔ Real-time updates without reloading
 
 ✔ Responsive design for all screen sizes
 
 
-💡 Learning gained: 
+💡 Learning gained:
+
 Improved my skills in JavaScript arrays, DOM manipulation, and browser local storage for data persistence, while focusing on creating a productive user experience.
