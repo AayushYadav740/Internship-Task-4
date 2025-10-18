@@ -1,4 +1,3 @@
-
 SkillCraft Technology Internship Task 04 project – To-Do Web Application 📝
 
 This project helps users organize tasks efficiently with an intuitive and interactive interface built using HTML, CSS, and JavaScript.
